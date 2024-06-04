@@ -9,10 +9,10 @@ The ManaTTS dataset can be downloaded from [this link](link to be updated).
 The raw data for this dataset was crawled from the Nasl-e-Mana magazine website. The crawling script used for this purpose is also provided in this repository.
 
 ## Processing Pipeline
-The following figure illustrates the overall processing pipeline used to create the ManaTTS dataset, including the steps for preprocessing, alignment, and post-processing.
+The following figure illustrates the overall processing pipeline used to create the ManaTTS dataset, including the steps for preproces
 
 <p align="center">
-  <img src="https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset/assets/62302965/ebb75e4b-4c44-4b15-9554-df9401dd0e72" width="800">
+  <img src="https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset/assets/62302965/b3bf8dd1-f315-4278-bcd2-6ca80832fdcf" width="800">
 </p>
 
 This pipeline is available as a Jupyter Notebook included in this repository.  You can also run the notebook on Google Colab using [this link](https://colab.research.google.com/drive/1fWTy4IH2tSuOLrLSD8E8LMaUlI_Gnf-e?usp=sharing).
