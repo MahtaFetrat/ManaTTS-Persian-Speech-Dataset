@@ -6,7 +6,7 @@ ManaTTS is the largest publicly accessible single-speaker Persian corpus, compri
 The ManaTTS dataset can be downloaded from [this link](link to be updated).
 
 ## Raw Data Crawling
-The raw data for this dataset was crawled from the Nasl-e-Mana magazine website. The crawling script used for this purpose is also provided in this repository.
+The raw data for this dataset was crawled from the Nasl-e-Mana magazine website. The crawling script used for this purpose is also provided in this repository and on Google Colab in [this link](https://colab.research.google.com/drive/1_E5KYAwuCr9B8k6EPYjVErsx-7rrr8Vl?usp=sharing).
 
 ## Processing Pipeline
 The following figure illustrates the overall processing pipeline used to create the ManaTTS dataset, including the steps for preproces
