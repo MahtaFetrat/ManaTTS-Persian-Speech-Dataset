@@ -1,6 +1,6 @@
 # ManaTTS-Persian-Speech-Dataset
 
-ManaTTS is the largest publicly accessible single-speaker Persian corpus, comprising approximately 86 hours of audio with a sampling rate of 44.1 kHz. It is released under the open CC-0 license, enabling educational and commercial use. This dataset is a comprehensive speech dataset for the Persian language, collected from the [Nasl-e-Mana](https://naslemana.com/) magazine. It includes a wide range of topics and domains, making it suitable for training high-quality text-to-speech models. The dataset is accompanied by a fully transparent, open-source pipeline for data collection and processing, including tools for sentence tokenization, audio segmentation, and forced alignment.
+ManaTTS is the largest publicly accessible single-speaker Persian corpus, comprising approximately 86 hours of audio with a sampling rate of 44.1 kHz. It is released under the open CC-0 license, enabling educational and commercial use. This dataset is a comprehensive speech dataset for the Persian language, collected from the [Nasl-e-Mana](https://naslemana.com/) magazine. It includes a wide range of topics and domains, making it suitable for training high-quality text-to-speech models. The dataset is accompanied by a fully transparent, open-source pipeline for data collection and processing, including tools for audio segmentation and forced alignment.
 
 ## Dataset
 The ManaTTS dataset can be downloaded from [this link](link to be updated).
