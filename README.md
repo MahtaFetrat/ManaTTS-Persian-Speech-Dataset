@@ -32,6 +32,14 @@ Contributions to this project are welcome! If you encounter any issues or have s
 ## License
 The ManaTTS dataset is released under the CC-0 1.0 license, while the processing pipeline is licensed under the MIT license.
 
+## Important Notice on Ethical Use of ManaTTS Dataset
+
+The ManaTTS dataset is provided exclusively for research and development purposes. We emphasize the critical importance of ethical conduct in utilizing this dataset. Please refrain from any misuse, including but not limited to voice impersonation, identity theft, or fraudulent activities. 
+
+By accessing and using the ManaTTS dataset, you are obligated to uphold the highest standards of integrity and respect for user privacy. Any violation of these principles may have severe legal and ethical consequences.
+
+For any inquiries or clarifications regarding the use of this dataset, please reach out to us at [contact info to be updated]. Your cooperation in ensuring responsible use of this dataset is greatly appreciated.
+
 ## Citation
 If you use this dataset or the processing pipeline in your work, please cite the following paper:
 
