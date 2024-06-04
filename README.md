@@ -40,6 +40,10 @@ By accessing and using the ManaTTS dataset, you are obligated to uphold the high
 
 For any inquiries or clarifications regarding the use of this dataset, please reach out to us at [contact info to be updated]. Your cooperation in ensuring responsible use of this dataset is greatly appreciated.
 
+## Acknowledgment
+
+We would like to express our sincere gratitude to [Nasl-e-Mana](https://naslemana.com/), the monthly magazine of the blind community of Iran, for their generosity. Their commitment to openness and collaboration has been instrumental in advancing research and development in speech synthesis. We are especially thankful for their choice to release the data under the Creative Commons CC-0 license, allowing for unrestricted use and distribution.
+
 ## Citation
 If you use this dataset or the processing pipeline in your work, please cite the following paper:
 
