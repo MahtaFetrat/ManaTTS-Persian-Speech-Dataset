@@ -47,4 +47,11 @@ We would like to express our sincere gratitude to [Nasl-e-Mana](https://nasleman
 ## Citation
 If you use this dataset or the processing pipeline in your work, please cite the following paper:
 
-(citation to be updated)
+```bash
+@article{fetrat2024manatts,
+      title={ManaTTS Persian: a recipe for creating TTS datasets for lower resource languages}, 
+      author={Mahta Fetrat Qharabagh and Zahra Dehghanian and Hamid R. Rabiee},
+      journal={arXiv preprint arXiv:2409.07259},
+      year={2024},
+}
+```
