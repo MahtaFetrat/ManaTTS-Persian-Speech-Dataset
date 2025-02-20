@@ -44,6 +44,11 @@ For any inquiries or clarifications regarding the use of this dataset, please re
 
 We would like to express our sincere gratitude to [Nasl-e-Mana](https://naslemana.com/), the monthly magazine of the blind community of Iran, for their generosity. Their commitment to openness and collaboration has been instrumental in advancing research and development in speech synthesis. We are especially thankful for their choice to release the data under the Creative Commons CC-0 license, allowing for unrestricted use and distribution.
 
+
+## Collaboration and Community Impact
+We encourage researchers, developers, and the broader community to utilize the resources provided in this project, particularly in the development of high-quality screen readers and other assistive technologies to support the Iranian blind community. By fostering open-source collaboration, we aim to drive innovation and improve accessibility for all.
+
+
 ## Citation
 If you use this dataset or the processing pipeline in your work, please cite the following paper:
 
