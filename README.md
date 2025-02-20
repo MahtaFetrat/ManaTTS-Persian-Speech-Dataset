@@ -24,7 +24,7 @@ To run the pipeline, follow these steps:
 3. Execute the cells in the notebook sequentially
 
 ## Trained TTS Model
-A text-to-speech (TTS) model has been trained on the ManaTTS dataset. The code for training the model, as well as some output samples, are available in [this repository](https://github.com/MahtaFetrat/Persian-MultiSpeaker-Tacotron2).
+A text-to-speech (TTS) model has been trained on the ManaTTS dataset. The code for training the model, as well as some output samples, are available in [this repository](https://github.com/MahtaFetrat/Persian-MultiSpeaker-Tacotron2). The model weights and inference instructions can be found in [this repository](https://huggingface.co/MahtaFetrat/Persian-Tacotron2-on-ManaTTS).
 
 ## Contributing
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
@@ -38,7 +38,7 @@ The ManaTTS dataset is provided exclusively for research and development purpose
 
 By accessing and using the ManaTTS dataset, you are obligated to uphold the highest standards of integrity and respect for user privacy. Any violation of these principles may have severe legal and ethical consequences.
 
-For any inquiries or clarifications regarding the use of this dataset, please reach out to us at [contact info to be updated]. Your cooperation in ensuring responsible use of this dataset is greatly appreciated.
+For any inquiries or clarifications regarding the use of this dataset, please reach out to us. Your cooperation in ensuring responsible use of this dataset is greatly appreciated.
 
 ## Acknowledgment
 
