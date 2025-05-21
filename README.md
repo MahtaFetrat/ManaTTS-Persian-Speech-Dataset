@@ -3,12 +3,18 @@
 ManaTTS is the largest publicly accessible single-speaker Persian corpus, comprising over 100 hours of audio with a sampling rate of 44.1 kHz. It is released under the open CC-0 license, enabling educational and commercial use. This dataset is a comprehensive speech dataset for the Persian language, collected from the [Nasl-e-Mana](https://naslemana.com/) magazine. It includes a wide range of topics and domains, making it suitable for training high-quality text-to-speech models. The dataset is accompanied by a fully transparent, open-source pipeline for data collection and processing, including tools for audio segmentation and forced alignment.
 
 ## Dataset
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-dataset-orange)](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS)
+
 The ManaTTS dataset can be downloaded from [this link](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS). You can access a smaller, random sample of this dataset in the [sampled data directory](sample_data). These samples were selected to reflect the same distribution of match qualities as the complete dataset. For more details on match qualities, please refer to [the paper](https://arxiv.org/abs/2409.07259).
 
 ## Raw Data Crawling
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_E5KYAwuCr9B8k6EPYjVErsx-7rrr8Vl?usp=sharing) 
+
 The raw data for this dataset was crawled from the Nasl-e-Mana magazine website. The crawling script used for this purpose is also provided in this repository and on Google Colab in [this link](https://colab.research.google.com/drive/1_E5KYAwuCr9B8k6EPYjVErsx-7rrr8Vl?usp=sharing).
 
 ## Processing Pipeline
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fWTy4IH2tSuOLrLSD8E8LMaUlI_Gnf-e?usp=sharing) 
+
 The following figure illustrates the overall processing pipeline used to create the ManaTTS dataset, including the steps for preproces
 
 <p align="center">
@@ -24,6 +30,8 @@ To run the pipeline, follow these steps:
 3. Execute the cells in the notebook sequentially
 
 ## Trained TTS Model
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-model-orange)](https://huggingface.co/MahtaFetrat/Persian-Tacotron2-on-ManaTTS)
+
 A text-to-speech (TTS) model has been trained on the ManaTTS dataset. The code for training the model, as well as some output samples, are available in [this repository](https://github.com/MahtaFetrat/Persian-MultiSpeaker-Tacotron2). The model weights and inference instructions can be found in [this repository](https://huggingface.co/MahtaFetrat/Persian-Tacotron2-on-ManaTTS).
 
 ## Contributing
@@ -53,10 +61,15 @@ We encourage researchers, developers, and the broader community to utilize the r
 If you use this dataset or the processing pipeline in your work, please cite the following paper:
 
 ```bash
-@article{fetrat2024manatts,
-      title={ManaTTS Persian: a recipe for creating TTS datasets for lower resource languages}, 
-      author={Mahta Fetrat Qharabagh and Zahra Dehghanian and Hamid R. Rabiee},
-      journal={arXiv preprint arXiv:2409.07259},
-      year={2024},
+@inproceedings{qharabagh-etal-2025-manatts,
+    title = "{M}ana{TTS} {P}ersian: a recipe for creating {TTS} datasets for lower resource languages",
+    author = "Qharabagh, Mahta Fetrat  and Dehghanian, Zahra  and Rabiee, Hamid R.",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.464/",
+    pages = "9177--9206",
 }
 ```
