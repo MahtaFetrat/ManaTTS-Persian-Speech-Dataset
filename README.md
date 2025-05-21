@@ -5,7 +5,7 @@ ManaTTS is the largest publicly accessible single-speaker Persian corpus, compri
 ## Dataset
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-dataset-orange)](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS)
 
-The ManaTTS dataset can be downloaded from [this link](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS). You can access a smaller, random sample of this dataset in the [sampled data directory](sample_data). These samples were selected to reflect the same distribution of match qualities as the complete dataset. For more details on match qualities, please refer to [the paper](https://arxiv.org/abs/2409.07259).
+The ManaTTS dataset can be downloaded from [this link](https://huggingface.co/datasets/MahtaFetrat/Mana-TTS). You can access a smaller, random sample of this dataset in the [sampled data directory](sample_data). These samples were selected to reflect the same distribution of match qualities as the complete dataset. For more details on match qualities, please refer to [the paper](https://aclanthology.org/2025.naacl-long.464/).
 
 ## Raw Data Crawling
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_E5KYAwuCr9B8k6EPYjVErsx-7rrr8Vl?usp=sharing) 
